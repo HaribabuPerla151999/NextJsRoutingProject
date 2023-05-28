@@ -1,0 +1,13 @@
+.resultContainer{
+    background-color: black;
+    box-shadow:0 0 10px black;
+    color:yellow;
+    width:450px;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    transform:translate(90%,50%)
+}
